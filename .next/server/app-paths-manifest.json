@@ -1,0 +1,11 @@
+{
+  "/patients/page": "app/patients/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/patients/[id]/page": "app/patients/[id]/page.js",
+  "/doctors/page": "app/doctors/page.js",
+  "/results/page": "app/results/page.js",
+  "/inventory/page": "app/inventory/page.js",
+  "/tests/page": "app/tests/page.js",
+  "/results/[orderId]/page": "app/results/[orderId]/page.js",
+  "/settings/page": "app/settings/page.js"
+}
